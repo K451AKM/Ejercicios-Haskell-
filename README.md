@@ -1,6 +1,9 @@
 # Problemario de Programación Funcional en Haskell
 
+- [Ejercicios sin resolver](https://github.com/K451AKM/Ejercicios-Haskell-/blob/main/Ejercicios%20.hs): Aquí se encuentran los problemas planteados.
+
 ## Contenido
+- [Problemario Resuelto](https://github.com/K451AKM/Ejercicios-Haskell-/blob/main/Problemario%20Resuelto%20.hs): En este archivo se brinda la solución a los ejercicios planteados.
 
 El problemario incluye las siguientes secciones:
 
@@ -13,3 +16,4 @@ El problemario incluye las siguientes secciones:
 4. **Tipos de Datos**: Implementación y manipulación de tipos de datos personalizados, incluyendo un ejemplo con un tipo `Estudiante`.
 
 5. **Árboles**: Ejercicios relacionados con la implementación y operaciones en árboles binarios.
+
